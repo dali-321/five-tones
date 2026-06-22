@@ -1,0 +1,9 @@
+{
+  "name": "Five Tones - Your Body Has a Soundtrack",
+  "short_name": "Five Tones",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF6B6B",
+  "icons": [{ "src": "/favicon.ico", "sizes": "64x64", "type": "image/x-icon" }]
+}
