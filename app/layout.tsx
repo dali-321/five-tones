@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 
-const SITE_URL = 'https://fivetones.cc';  // Update when domain is ready
+const SITE_URL = 'https://fivetones.cc';
 const SITE_NAME = 'Five Tones';
 const SITE_TITLE = 'Five Tones — Your Body Has a Soundtrack';
 const SITE_DESC = 'Ancient Chinese healing meets modern music. Take a 2-min quiz to discover your five-element body type and get a personalized healing playlist.';
