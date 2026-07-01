@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fivetones.cc/sitemap.xml
